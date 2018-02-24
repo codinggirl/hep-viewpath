@@ -4,12 +4,6 @@
 
 view base middleware for hep-pug
 
-## Update history
-
-### v1.0.0
-
-- project created
-
 ## LICENSE
 
 The MIT License (MIT)
@@ -47,14 +41,6 @@ cnpm i -S hep-pug-viewbase
 ```
 cnpm install --save hep-pug-viewbase
 ```
-
-
-
-## 更新记录
-
-### v1.0.0
-
-- 创建项目
 
 ## 授权协议
 
