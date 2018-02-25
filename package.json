@@ -1,6 +1,6 @@
 {
   "name": "hep-pug-viewbase",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "view base middleware for hep-pug",
   "main": "lib/index.js",
   "scripts": {
