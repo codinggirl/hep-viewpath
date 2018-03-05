@@ -4,6 +4,8 @@
 
 view base middleware for hep-pug
 
+@deprecated please use hep-viewpath instead.
+
 ## LICENSE
 
 The MIT License (MIT)
