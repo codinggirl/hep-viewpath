@@ -1,5 +1,7 @@
 # hep-viewpath
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/codinggirl/hep-viewpath.svg)](https://greenkeeper.io/)
+
 A view path middleware for Hep/Koa.
 
 ## 安装
